@@ -30,6 +30,9 @@ Scientific Computing · Optimization · Machine Learning · Quantitative Finance
 **Frameworks & Tools**
 Qt · FastAPI · React · CUDA (learning) · Git · Linux
 
+**Practices**
+CI/CD (GitHub Actions) · Unit Testing · Code Coverage (Codecov) · Static Analysis
+
 ---
 
 ## 🔬 Research
@@ -79,3 +82,5 @@ AI-powered stock/crypto research platform combining classical models (k-NN, Line
 ## 📈 Philosophy
 
 I enjoy building software where mathematics, algorithms and performance matter. Whether it's numerical solvers, financial models, visualization tools or machine learning systems, I'm interested in producing software that is both scientifically rigorous and practical.
+
+I also use AI coding agents (Claude, Copilot) extensively to accelerate development, with structured `AGENTS.md`/`CLAUDE.md` instructions to keep them aligned with each project's conventions.
