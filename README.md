@@ -1,6 +1,6 @@
 # Hi, I'm Matthew 👋
 
-**M.Sc. student in Applied Informatics in Natural Sciences** at FJFI (Faculty of Nuclear Sciences and Physical Engineering), ČVUT (Czech Technical University) in Prague.
+**M.Sc. student in Applied Informatics in Natural Sciences** at the Faculty of Nuclear Sciences and Physical Engineering (FNSPE), Czech Technical University (CTU) in Prague.
 
 My interests lie at the intersection of **high-performance computing, numerical methods, quantitative finance, machine learning, and modern systems programming**. I enjoy building software that combines strong theoretical foundations with practical performance.
 
