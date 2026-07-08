@@ -1,6 +1,6 @@
 # Hi, I'm Matthew 👋
 
-**M.Sc. student in Applied Informatics in Natural Sciences** at the Faculty of Nuclear Sciences and Physical Engineering (FNSPE), Czech Technical University (CTU) in Prague.
+**M.Sc. student in Applied Informatics in Natural Sciences** at FJFI (Faculty of Nuclear Sciences and Physical Engineering), ČVUT (Czech Technical University) in Prague.
 
 My interests lie at the intersection of **high-performance computing, numerical methods, quantitative finance, machine learning, and modern systems programming**. I enjoy building software that combines strong theoretical foundations with practical performance.
 
@@ -76,6 +76,15 @@ AI-powered stock/crypto research platform combining classical models (k-NN, Line
 - Quantitative finance research
 - Machine learning for financial time series
 - Modern C++ and Rust ecosystems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loghic&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Matěj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghic&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
+</p>
 
 ---
 
