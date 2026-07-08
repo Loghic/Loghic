@@ -36,6 +36,8 @@ Qt · FastAPI · React · CUDA (learning) · Git · Linux
 
 I contribute to **TNL (Template Numerical Library)**, where my graduate research focuses on implementing an **Active-Set Quadratic Programming solver** in modern C++. The project is part of my master's research and aims to extend TNL with efficient optimization algorithms for scientific computing applications.
 
+**MarketPulse AI** also doubles as research infrastructure for an upcoming paper comparing **Prophet vs. LSTM+Prophet hybrid models** for financial time-series forecasting.
+
 ---
 
 ## 🚀 Featured Projects
