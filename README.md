@@ -76,16 +76,7 @@ AI-powered stock/crypto research platform combining classical models (k-NN, Line
 - Quantitative finance research
 - Machine learning for financial time series
 - Modern C++ and Rust ecosystems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loghic&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Matěj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghic&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
-</p>
-
+  
 ---
 
 ## 📈 Philosophy
